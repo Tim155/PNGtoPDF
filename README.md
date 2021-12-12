@@ -19,3 +19,6 @@
 
 ## Windows:
 ##  CMD: python pngToPDF.py /path/to/png/image.png /path/to/save.pdf
+
+
+© Tim155 2021-2022
