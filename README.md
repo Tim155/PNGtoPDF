@@ -15,5 +15,7 @@
 ## macOS and Linux:
 ##  Terminal: python3 pngToPDF.py /path/to/png/image.png /path/to/save.pdf
 
+### or
+
 ## Windows:
 ##  CMD: python pngToPDF.py /path/to/png/image.png /path/to/save.pdf
