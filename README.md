@@ -7,7 +7,7 @@
 
 ### If you renamed the file from pngToPDF.py to something else .py then replace pngToPDF.py to the new filename and be sure to run the command from the same directory as the file lays in or to give the absolute path to the file like (in home folder) ~/absolute/path/to/file.py or (from drive root) /absolute/path/to/file.py
 
-## 1. Ususally first:
+## 1. Usually first:
 ##  Terminal/CMD: cd /directory/of/converter/file.py
 
 ## 2.
